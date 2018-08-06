@@ -1,0 +1,334 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  body{
+    height: 300px;
+  }
+
+  section.cero{
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+    padding: 15px;
+    background: url(https://placeimg.com/640/480/nature) center center;
+    background-size: cover;
+  }
+
+  section .cero cer{
+    position: absolute;
+    top: 38%;
+    left:37%;
+  }
+
+  section .uno{
+    width: 33.3%;
+    float: left;
+    background: blue;
+    color: white;
+    font-family: sans-serif;
+    padding: 15px;
+    height: 100%;
+  }
+  
+  section .uno h1{
+    margin-bottom: 10%;
+    position: absolute;
+    top: 50%;
+    left: 2%;
+  }
+  
+  section .uno p{
+    margin-bottom: 20%;
+    position: absolute;
+    top: 59%;
+    left: auto;
+  }
+  
+  section .uno button{
+    background: transparent;
+    border: white 1px solid;
+    padding: 5px;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    position: absolute;
+    height: 30px;
+    top:82%;
+    left: 4%;
+  }
+  
+section .dos{
+  width: 66.6%;
+  float: left;
+  color: white;
+  font-family: sans-serif;
+  height: 100%;
+  background: url(https://placeimg.com/640/480/any) center center;
+  background-size: cover;
+}
+
+.text{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.text.encima1{
+  position: absolute;
+  top:82%;
+  left:37%;
+}
+
+.text.encima2{
+  position: absolute;
+  top:85%;
+  left:41%;
+}
+
+section.tres{
+  width: 33.3%;
+  float: left;
+  background: #011F3D;
+  color: white;
+  font-family: sans-serif;
+  padding: 15px;
+  height: 100%;
+}
+
+section.tres h1{
+  position: absolute;
+  top: 100%;
+  left: 5%;
+}
+
+section.tres p{
+  position: absolute;
+  top: 106%;
+  left: auto;
+}
+
+section.cuatro{
+  width: 33.3%;
+  float: left;
+  background: #011F3D;
+  color: white;
+  font-family: sans-serif;
+  padding: 15px;
+  height: 100%;
+}
+
+section.cuatro h1{
+  position: absolute;
+  top: 100%;
+  left: 38%;
+}
+
+section.cuatro p{
+  position: absolute;
+  top:106%;
+  left: 35%;
+}
+
+section.cinco{
+  width: 33.3%;
+  float: left;
+  background: #D98172;
+  color: white;
+  font-family: sans-serif;
+  padding: 15px;
+  height: 100%;
+}
+
+section.cinco h1{
+  margin-bottom: 10%;
+  position: absolute;
+  top: 94%;
+  left: 70%;
+}
+
+section.cinco p{
+  margin-bottom: 20%;
+  position: absolute;
+  top: 101%;
+  left: 70%;
+}
+
+section.cinco button{
+  background: transparent;
+  border: white 1px solid;
+  padding: 5px;
+  color: white;
+  border-radius: 20px;
+  width: 100px;
+  position: absolute;
+  height: 30px;
+  top:124%;
+  left: 70%;
+}
+
+section.seis{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  height: 100%;
+  float: left;
+  background: url(https://placeimg.com/640/480/tech) center center;
+  background-size: cover;
+}
+
+section.seis p{
+  position: absolute;
+  top:163%;
+  left:3%;
+}
+
+section.seis h1{
+  position: absolute;
+  top: 170%;
+  left: 3%;
+}
+
+section.siete{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  float: left;
+  height: 100%;
+  background: url(https://placeimg.com/640/480/arch)center center;
+  background-size: cover;
+}
+
+section.siete p{
+  position: absolute;
+  top: 168%;
+  left: 37%;
+}
+
+section.siete h1{
+  position: absolute;
+  top: 170%;
+  left: 38%;
+}
+
+section.ocho{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  float: left;
+  height: 100%;
+  background: url(https://placeimg.com/640/480/people)center center;
+  background-size: cover;
+}
+
+section.ocho p{
+  position: absolute;
+  top:168%;
+  left:70%;
+}
+
+section.ocho h3{
+  position: absolute;
+  top: 171%;
+  left: 70%;
+}
+
+section.nueve{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  height: 100%;
+  float: left;
+  background:#DB9888
+}
+
+section.nueve p{
+  position: absolute;
+  top:186%;
+  left: 3%;
+}
+
+section.nueve h1{
+  position: absolute;
+  top:181%;
+  left: 3%; 
+}
+
+section.nueve button{
+  background: transparent;
+  border: white 1px solid;
+  padding: 5px;
+  color: white;
+  border-radius: 20px;
+  width: 100px;
+  position: absolute;
+  height: 30px;
+  top:213%;
+  left:3%;
+}
+
+section.diez{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  float: left;
+  height: 100%;
+  background: url(https://placeimg.com/640/480/tech)center center;
+  background-size: cover;
+}
+
+section.diez p{
+position: absolute;
+top: 214%;
+left: 38%;
+}
+
+section.diez h1{
+  position: absolute;
+  top: 216%;
+  left: 38%;
+}
+
+section.once{
+  width: 33.3%;
+  color: white;
+  font-family: sans-serif;
+  float: left;
+  height: 100%;
+  background:#80D0FF
+}
+
+section.once p{
+  position: absolute;
+  top:210%;
+  left:70%;
+}
+
+section.doce{
+  width: 100%;
+  color: black;
+  font-family: sans-serif;
+  float: left;
+  height: 100%;
+  background:white;
+}
+
+section.doce p{
+  position: absolute;
+  top:230%;
+  left:15%; 
+}
+
+section.doce h1{
+  position: absolute;
+  top:243%;
+  left:39%; 
+}
+
+section.doce h2{
+  position: absolute;
+  top:248%;
+  left:32%; 
+}
